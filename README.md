@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Illia 👋</h1>
 
-**Senior Full-Stack Engineer** · React · Next.js · TypeScript · Node.js · React Native
+**Senior Full-Stack Engineer** · React · Next.js · TypeScript · Node.js · React Native<br>
 📍 Kyiv, Ukraine · 🌍 Open to remote opportunities
 
 I build web and mobile products end-to-end, from React / Next.js and React Native interfaces
